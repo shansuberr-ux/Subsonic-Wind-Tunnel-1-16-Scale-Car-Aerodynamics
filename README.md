@@ -32,30 +32,9 @@ A fully functional, FDM-printed subsonic wind tunnel designed and built from scr
 
 ## Gallery
 
-| CAD — Cross-Section Assembly | Slicer — Contraction |
+| CAD — Cross-Section Assembly | Assembled |
 |---|---|
-| ![CAD](images/Screenshot%202026-01-17%20194343.png) | ![Contraction slicer](images/Screenshot%202026-01-17%20225800.png) |
-
-| Slicer — Honeycomb Insert | Slicer — Tunnel Body |
-|---|---|
-| ![Honeycomb](images/Screenshot%202026-01-17%20225924.png) | ![Body](images/Screenshot%202026-01-17%20230119.png) |
-
-| Assembled — Side View | Assembled — Test Section End |
-|---|---|
-| ![Side](images/WhatsApp%20Image%202026-05-02%20at%2018.48.34%20(1).jpeg) | ![Test end](images/WhatsApp%20Image%202026-05-02%20at%2018.48.35.jpeg) |
-
----
-
-## Print Strategy
-
-| Section | Quality | Time | Weight |
-|---|---|---|---|
-| Honeycomb insert | Dynamic 0.16mm, 20% infill | 3h 51min | 19g |
-| Main tunnel body | Super Quality 0.12mm | 9h 21min | 37g |
-| Contraction section | Standard 0.2mm | 5h 12min | 32g |
-| Exit diffuser | Dynamic 0.16mm | 4h 55min | 30g |
-
-Total print time: **30+ hours** · Total filament: **~120g+**
+| ![CAD](https://github.com/shansuberr-ux/Subsonic-Wind-Tunnel-1-16-Scale-Car-Aerodynamics/blob/main/Screenshot%202026-01-17%20194343.png) | ![Assembled](https://github.com/shansuberr-ux/Subsonic-Wind-Tunnel-1-16-Scale-Car-Aerodynamics/blob/main/WhatsApp%20Image%202026-05-02%20at%2018.48.37.jpeg) |
 
 ---
 
